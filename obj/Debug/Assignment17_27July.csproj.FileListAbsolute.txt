@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\Assignment17_27July\Assignment17_27July\bin\Debug\Assignment17_27July.exe.config
+C:\Users\Lenovo\source\repos\Assignment17_27July\Assignment17_27July\bin\Debug\Assignment17_27July.exe
+C:\Users\Lenovo\source\repos\Assignment17_27July\Assignment17_27July\bin\Debug\Assignment17_27July.pdb
+C:\Users\Lenovo\source\repos\Assignment17_27July\Assignment17_27July\obj\Debug\Assignment17_27July.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Assignment17_27July\Assignment17_27July\obj\Debug\Assignment17_27July.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Assignment17_27July\Assignment17_27July\obj\Debug\Assignment17_27July.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Assignment17_27July\Assignment17_27July\obj\Debug\Assignment17_27July.exe
+C:\Users\Lenovo\source\repos\Assignment17_27July\Assignment17_27July\obj\Debug\Assignment17_27July.pdb
